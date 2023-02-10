@@ -82,6 +82,10 @@ section.testoSovraimpressione {
     color: white;
 }
 
+.contenutoInferiore h3 {
+    font-size: 25px;
+}
+
 .contenutoSuperiore:hover {
     border-radius: 25px;
     align-items: center;
